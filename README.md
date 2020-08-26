@@ -1,6 +1,6 @@
 ### Bonjour, je suis Maxime - [Portfolio][website] 👋
 
-## Je suis un fervent passionné de PHP et Symfony !
+## Je suis passionné de PHP et Symfony !
 
 - 🌱 Je me perfectionne sur PHP et Symfony actuellement 🤣
 - 👯 Je souhaite collaborer avec d'autres créateurs de contenu
