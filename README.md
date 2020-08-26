@@ -2,7 +2,7 @@
 
 ## Je suis un fervent passionné de PHP et Symfony !
 
-- 🌱 Je me perfectionne actuellement 🤣
+- 🌱 Je me perfectionne sur PHP et Symfony actuellement 🤣
 - 👯 Je souhaite collaborer avec d'autres créateurs de contenu
 - 🥅 Objectifs 2020: contribuer davantage aux projets Open Source
 - ⚡ Fait amusant: j'aime jouer aux jeux vidéo et faire du sport
@@ -14,7 +14,7 @@
 
 <br />
 
-### 🚀 Langues et outils 🚀:
+### 🚀 Langage et outils 🚀:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -32,6 +32,8 @@
 
 <br />
 <br />
+
+--
 
 <details>
   <summary>:zap: Statistiques Github</summary>
