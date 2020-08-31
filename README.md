@@ -1,20 +1,20 @@
-### Bonjour, je suis Maxime - [Portfolio][website] 👋
+### Hi, I am Maxime - [Website][website] 👋
 
-## Je suis passionné de PHP et Symfony !
+## I am passionate about PHP and Symfony !
 
-- 🌱 Je me perfectionne sur PHP et Symfony actuellement 🤣
-- 👯 Je souhaite collaborer avec d'autres créateurs de contenu
-- 🥅 Objectifs 2020: contribuer davantage aux projets Open Source
-- ⚡ Fait amusant: j'aime jouer aux jeux vidéo et faire du sport
+- 🌱 I am improving on PHP and Symfony currently 💪
+- 👯 I want to collaborate with other content creators
+- 🥅 2020 objectives: contribute more to Open Source projects
+- ⚡ Fun fact: I love to play video games and exercise
 
-### Me retrouver:
+### Find myself:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
-### 🚀 Langage et outils 🚀:
+### 🚀 Languages and tools 🚀:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -36,7 +36,7 @@
 ---
 
 <details>
-  <summary>:zap: Statistiques Github</summary>
+  <summary>:zap: Statistics Github</summary>
 
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mdoutreluingne&show_icons=true&hide_border=true" />
 
