@@ -35,12 +35,9 @@
 
 ---
 
-<details>
-  <summary>:zap: Statistics Github</summary>
+### :zap: Statistics Github
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mdoutreluingne&show_icons=true&hide_border=true" />
-
-</details>
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mdoutreluingne&show_icons=true&hide_border=true" />
 
 [website]: https://maxime-doutreluingne.yj.fr/
 [linkedin]: https://www.linkedin.com/in/maxime-doutreluingne
