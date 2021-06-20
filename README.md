@@ -1,15 +1,14 @@
-### Hi, I am Maxime - [Website][website] 👋
+### Hi, I am Maxime 👋
 
 ## I am passionate about PHP and Symfony !
 
 - 🌱 I am improving on PHP and Symfony currently 💪
 - 👯 I want to collaborate with other content creators
-- 🥅 2020 objectives: contribute more to Open Source projects
+- 🥅 2021 objectives: contribute more to Open Source projects
 - ⚡ Fun fact: I love to play video games and exercise
 
 ### Find myself:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -37,7 +36,6 @@
 
 ### :zap: Statistics Github
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mdoutreluingne&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mdoutreluingne&show_icons=true&count_private=true&theme=tokyonight" />
 
-[website]: https://maxime-doutreluingne.yj.fr/
 [linkedin]: https://www.linkedin.com/in/maxime-doutreluingne
