@@ -9,7 +9,7 @@
 
 ### Find myself:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<a href="https://www.linkedin.com/in/maxime-doutreluingne">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 <br />
 
@@ -36,7 +36,5 @@
 
 ### :zap: Statistics Github
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=mdoutreluingne&show_icons=true&count_private=true&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdoutreluingne&show_icons=true&count_private=true&theme=tokyonight" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdoutreluingne&layout=compact&hide=objective-c,java&theme=tokyonight" />
-
-[linkedin]: https://www.linkedin.com/in/maxime-doutreluingne
