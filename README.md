@@ -36,8 +36,7 @@
 
 ### :zap: Statistics Github
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mdoutreluingne&show_icons=true&count_private=true&theme=tokyonight" />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdoutreluingne&layout=compact&hide=objective-c,java)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdoutreluingne&show_icons=true&count_private=true&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdoutreluingne&layout=compact&hide=objective-c,java&theme=tokyonight />
 
 [linkedin]: https://www.linkedin.com/in/maxime-doutreluingne
