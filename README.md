@@ -33,9 +33,10 @@
 
 ### :zap: My Github stats
 ---
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=mdoutreluingne&show_icons=true&count_private=true&theme=algolia" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdoutreluingne&layout=compact&hide=objective-c,java&theme=algolia" />
+<p align = "center">
+<img src="https://github-readme-stats.vercel.app/api?username=mdoutreluingne&show_icons=true&count_private=true&theme=algolia" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdoutreluingne&layout=compact&hide=objective-c,java&theme=algolia" />
+ </p>
 
 <br />
 <br />
