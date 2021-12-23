@@ -1,10 +1,11 @@
-### Hi, I am Maxime 👋
+### Hey 👋
 
 ## I am passionate about PHP and Symfony !
 
 - 🌱 I am improving on PHP and Symfony currently 💪
-- 👯 I want to collaborate with other content creators
-- 🥅 2021 objectives: contribute more to Open Source projects
+- 💡  I love innovation and new technologies
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 Goal: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play video games and exercise
 
 ### 🚀 Technology Stack :
@@ -45,3 +46,4 @@
 ---
 
 <a href="https://www.linkedin.com/in/maxime-doutreluingne">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://connect.symfony.com/profile/maxdoutreluingne">![LinkedIn](https://img.shields.io/badge/connect-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)</a>
