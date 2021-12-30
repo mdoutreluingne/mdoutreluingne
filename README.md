@@ -32,15 +32,11 @@
 <br />
 <br />
 
-### :zap: My Github stats
+### 📊 My Github stats
 ---
-<p align = "center">
-<img src="https://github-readme-stats.vercel.app/api?username=mdoutreluingne&show_icons=true&count_private=true&theme=algolia" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdoutreluingne&layout=compact&hide=objective-c,java&theme=algolia" />
- </p>
+<img align="right" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mdoutreluingne&show_icons=true&count_private=true&theme=algolia">
 
-<br />
-<br />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdoutreluingne&layout=compact&hide=objective-c,java&theme=algolia)
 
 ### 📫 Find myself:
 ---
