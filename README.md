@@ -33,7 +33,7 @@
 <br />
 
 ### 📊 My Github stats
----
+
 <img align="right" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mdoutreluingne&show_icons=true&count_private=true&theme=algolia">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdoutreluingne&layout=compact&hide=objective-c,java&theme=algolia)
