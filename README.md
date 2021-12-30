@@ -3,7 +3,7 @@
 ## I am passionate about PHP and Symfony !
 
 - 🌱 I am improving on PHP and Symfony currently 💪
-- 💡  I love innovation and new technologies
+- 💡 I love innovation and new technologies
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Goal: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play video games and exercise
@@ -28,9 +28,6 @@
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
  </p>
-
-<br />
-<br />
 
 ### 📊 My Github stats
 ---
