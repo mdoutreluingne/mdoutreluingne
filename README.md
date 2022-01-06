@@ -3,7 +3,7 @@
 ## I am passionate about PHP and Symfony !
 
 - 🌱 I am improving on PHP and Symfony currently 💪
-- 💡  I love innovation and new technologies
+- 💡 I love innovation and new technologies
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Goal: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play video games and exercise
