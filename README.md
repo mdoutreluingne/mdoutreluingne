@@ -1,6 +1,6 @@
 ### Hey 👋
 
-## I am passionate about PHP and Symfony !
+## I am passionate about PHP/Symfony !
 
 - 🌱 I am improving on PHP and Symfony currently 💪
 - 💡 I love innovation and new technologies
@@ -20,6 +20,7 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="Symfony" src="https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white"/>
 <img alt="JWT" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/>
+<img alt="API PLATFORM" src="https://img.shields.io/badge/API%20PLATFORM-2FC1C1?style=for-the-badge"/>
 <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
 <img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />
 <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
