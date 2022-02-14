@@ -1,11 +1,5 @@
 ### Hey 👋
 
-## Recent Activity
-
-This is a list of my most recent activity on GitHub.
-
-<!--RECENT_ACTIVITY:start-->
-
 ## I am passionate about PHP/Symfony !
 
 - 🌱 I am improving on PHP and Symfony currently 💪
