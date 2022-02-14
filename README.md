@@ -1,24 +1,10 @@
 ### Hey 👋
 
-# User
-
-Hello! I'm User.
-
 ## Recent Activity
 
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#27](https://github.com/mdoutreluingne/todoandco/pull/27) in [mdoutreluingne/todoandco](https://github.com/mdoutreluingne/todoandco)
-2. 💪 Opened PR [#27](https://github.com/mdoutreluingne/todoandco/pull/27) in [mdoutreluingne/todoandco](https://github.com/mdoutreluingne/todoandco)
-3. ⭐ Starred [deployphp/deployer](https://github.com/deployphp/deployer)
-4. 🎉 Merged PR [#26](https://github.com/mdoutreluingne/todoandco/pull/26) in [mdoutreluingne/todoandco](https://github.com/mdoutreluingne/todoandco)
-5. 💪 Opened PR [#26](https://github.com/mdoutreluingne/todoandco/pull/26) in [mdoutreluingne/todoandco](https://github.com/mdoutreluingne/todoandco)
-<!--RECENT_ACTIVITY:end-->
-
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 14th, 2022, 4:14:10 PM
-<!--RECENT_ACTIVITY:last_update_end-->
 
 ## I am passionate about PHP/Symfony !
 
