@@ -2,7 +2,9 @@
 
 - 🚀 I am passionate about PHP/Symfony!
 - 🤝 I’m looking to collaborate with other content creators
-- 👯 I love the [Symfony](https://symfony.com) ecosystem
+- 👯 I like the [Symfony](https://github.com/symfony) ecosystem
+- ⚒️ I create REST APIs with [API Platform](https://github.com/api-platform)
+- 🌱 I contribute occasionally for [the Symfony Docs](https://github.com/symfony/symfony-docs) and [Maker bundle](https://github.com/symfony/maker-bundle)
 
 ### 📊 My Github stats
 ---
